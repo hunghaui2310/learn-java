@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBC_learn/JDBC_learn.iml" filepath="$PROJECT_DIR$/JDBC_learn/JDBC_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract_class/abstract_class.iml" filepath="$PROJECT_DIR$/abstract_class/abstract_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/c-collections/c-collections.iml" filepath="$PROJECT_DIR$/c-collections/c-collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/c-comperable/c-comperable.iml" filepath="$PROJECT_DIR$/c-comperable/c-comperable.iml" />
@@ -9,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/isA_hasA/isAhasA.iml" filepath="$PROJECT_DIR$/isA_hasA/isAhasA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-java.iml" filepath="$PROJECT_DIR$/.idea/learn-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/num_fomat/num_fomat.iml" filepath="$PROJECT_DIR$/num_fomat/num_fomat.iml" />
     </modules>
   </component>
 </project>
